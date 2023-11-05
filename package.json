@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_cumulative_assessment",
+  "version": "1.0.0",
+  "description": "nodejs/express assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joseph killelea",
+  "license": "ISC"
+}
